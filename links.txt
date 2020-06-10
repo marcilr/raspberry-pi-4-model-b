@@ -8,3 +8,6 @@ Raspberry Pi 4 Model B related links
 
 Links
 =====
+Wicked Aluminum
+Has Pi 4 and Odroid C2 chassis
+https://wickedaluminum.com/
