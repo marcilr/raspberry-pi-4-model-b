@@ -1,0 +1,6 @@
+raspberry-pi-4-model-b.txt
+Created Wed 10 Jun 2020 12:20:28 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Raspberry Pi 4 Model B
